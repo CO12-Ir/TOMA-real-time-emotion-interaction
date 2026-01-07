@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Audio files
+*.wav
+segment_*.wav
+
+# OS
+.DS_Store
+Thumbs.db

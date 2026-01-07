@@ -1,0 +1,10 @@
+torch
+transformers
+sounddevice
+pygame
+numpy
+pandas
+scikit-learn
+lightgbm
+soundfile
+peft
