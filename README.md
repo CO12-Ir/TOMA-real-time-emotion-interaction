@@ -1,5 +1,7 @@
 # 🍅 TOMA — Tomato AI Pet
 
+🌏 Language: English | [中文](README_zh.md)
+
 TOMA is a real-time, voice-driven virtual pet that reacts to the user's
 **emotional tone of speech** rather than speech content.
 
